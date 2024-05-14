@@ -1,0 +1,26 @@
+{
+  "name": "data-type-manipulation",
+  "version": "1.0.0",
+  "description": "npm package to manipulate any data type",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SubhamJoshi18/NPM-Data-Type-Manipulation.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Shubham Raj Joshi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SubhamJoshi18/NPM-Data-Type-Manipulation/issues"
+  },
+  "homepage": "https://github.com/SubhamJoshi18/NPM-Data-Type-Manipulation#readme",
+  "dependencies": {
+    "string-utils": "^0.0.1"
+  }
+}

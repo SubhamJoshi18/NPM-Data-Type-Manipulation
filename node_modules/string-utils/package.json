@@ -1,0 +1,24 @@
+{
+  "author": "John Roepke <john@justjohn.us> (http://john.sh/)",
+  "name": "string-utils",
+  "description": "String manipulation utilities for the console (and more.)",
+  "version": "0.0.1",
+  "homepage": "https://github.com/justjohn/node-string-utils",
+  "licenses": [
+    { "type": "BSD-2-Clause",
+      "url":  "https://raw.github.com/justjohn/node-string-utils/master/LICENSE" }
+  ],
+  "repository": {
+    "type": "git",
+    "url":  "git://github.com/justjohn/node-string-utils.git"
+  },
+  "dependencies": {
+    "cli-color": "0.2.x"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "main": "utils.js"
+}
